@@ -1,0 +1,9 @@
+{
+    "products": [
+        {
+            "name": "Vestido branco",
+            "description": "some description",
+            "slug": "/vestido-branco/"
+        }
+    ]
+}
